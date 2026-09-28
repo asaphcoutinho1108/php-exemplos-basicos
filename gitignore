@@ -1,0 +1,15 @@
+# Pasta "Códigos" na raiz do repositório
+/Códigos/
+
+# PDFs
+*.pdf
+
+# Imagens
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.svg
+*.ico

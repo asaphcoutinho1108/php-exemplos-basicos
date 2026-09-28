@@ -1,0 +1,3 @@
+Sabrina;1000
+Ig;75
+Shakira;95
